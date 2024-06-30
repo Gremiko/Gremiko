@@ -1,5 +1,7 @@
 <div id="header" align="center">
-<p><img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="300"/>Тест</p>
+<p><img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="300"/># 👋 Hello!
+
+😎 My name is Dmitrii and I am currently studying website layout. In the future I want to start learning JavaScript and PHP. In general, I want to study the technology stack for full-time work as a front-end developer.</p>
 </div>
 # 👋 Hello!
 
