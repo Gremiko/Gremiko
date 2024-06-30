@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="300"/><p>Тест</p>
+<p><img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="300"/>Тест</p>
 </div>
 # 👋 Hello!
 
