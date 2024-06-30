@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header">
 <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="300"/>
 <p># 👋 Hello!
 
