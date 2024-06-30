@@ -8,7 +8,7 @@
 
 
 
-<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="100"/>
+<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="300"/>
 
 ## 💻 Tech Stack:
 
