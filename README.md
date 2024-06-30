@@ -1,5 +1,5 @@
 <div id="header">
-<img src="http://dgdesign.ru/uploads/posts/2017-01/1485362683_kartinka-dlya-shapki-sayta-informatika-1853831.jpg" width="100%"/>
+<img src="https://playprint.ru/images/catalog/categories/category-developer-bg.jpg" width="100%"/>
 </div>
 
 # 👋 Hello!
